@@ -3,4 +3,4 @@
 name: parse.rapidjson
 version: master
 
-inc: r
+inc: r/include
